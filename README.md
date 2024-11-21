@@ -133,19 +133,13 @@ The main objective of the Dental Clinic Management System is to provide a compre
 ![image](https://github.com/user-attachments/assets/1630af84-7164-4237-89bc-c660f32cd945)
 ![image](https://github.com/user-attachments/assets/fc5a93f6-d98b-4976-bb4d-dc257bc44269)
 ![image](https://github.com/user-attachments/assets/eae6f4bf-70ce-4f4d-a76d-feaabed68f6d)
-#### 1.3.1.3.2 Search Patient
+#### 1.3.1.3.3 Search Patient
 ![image](https://github.com/user-attachments/assets/c2f705e2-f090-4445-aeb3-85337b06886a)
+![image](https://github.com/user-attachments/assets/93e7b9aa-da9b-4b2c-b012-73635bf5afa1)
+![image](https://github.com/user-attachments/assets/f0b8e19a-f75b-4b21-928d-378664fc8100)
 
-| Tên chức năng     | Tìm kiếm thuốc                                               |
-| :---------------- | ------------------------------------------------------------ |
-| Đối tượng sử dụng | Nhân viên bán thuốc, quản lý                                 |
-| Điều kiện đầu vào | Không                                                        |
-| Nội dung          | Tìm kiếm thuốc theo thông tin cho trước                      |
-| Cách xử lý        | 1. Người dùng nhấn vào thanh tìm kiếm<br />2. Người dùng nhập vào ít nhất một thông tin về mã thuốc, tên thuốc, hoạt chất, nhóm thuốc, nhà cung cấp<br />3. Hệ thống tìm kiếm trong cơ sở dữ liệu các loại thuốc tương ứng, in ra màn hình.<br />4. Nếu người dùng đã đăng nhập, hiển thị mục "Tạo đơn hàng" trên mỗi mục. Chuyển đến trang "Bán thuốc" với loại thuốc tương ứng. |
-| Kết quả           | Hiển thị danh sách thuốc tìm được (các thông tin về thuốc, vị trí đặt thuốc) |
-| Ghi chú           | Các thông tin về thuốc: Mã thuốc, tên thuốc, hoạt chất, nhóm thuốc, nhà cung cấp, ngày hết hạn, đơn giá, lượng tồn kho. |
-
-#### 1.3.1.4. Bán thuốc
+#### 1.3.1.4. Medical Leave Management
+#### 1.3.1.4.1 Medical Leave Management
 
 | Tên chức năng     | Bán thuốc                                                    |
 | :---------------- | ------------------------------------------------------------ |
