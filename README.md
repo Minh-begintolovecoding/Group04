@@ -1,4 +1,4 @@
-<!-- Banner -->
+![image](https://github.com/user-attachments/assets/c195cb4b-0e0c-4c97-bb91-c16d3b7bdd59)<!-- Banner -->
 <p align="center">
   <a href="https://www.uit.edu.vn/" title="Trường Đại học Công nghệ Thông tin" style="border: none;">
     <img src="https://i.imgur.com/WmMnSRt.png" alt="Trường Đại học Công nghệ Thông tin | University of Information Technology">
@@ -139,82 +139,74 @@ The main objective of the Dental Clinic Management System is to provide a compre
 ![image](https://github.com/user-attachments/assets/f0b8e19a-f75b-4b21-928d-378664fc8100)
 
 #### 1.3.1.4. Medical Leave Management
-#### 1.3.1.4.1 Medical Leave Management
+#### 1.3.1.4.1 Add Medical Leave 
+![image](https://github.com/user-attachments/assets/18586f2b-573a-41a9-ac14-7a0fe71e3192)
+![image](https://github.com/user-attachments/assets/4599601d-f5aa-456c-b8b6-c369875dfb5f)
+![image](https://github.com/user-attachments/assets/003476d0-638d-4724-9797-25b3940c6f9e)
+#### 1.3.1.4.2 Delete Medical Leave 
+![image](https://github.com/user-attachments/assets/0fbdcad6-c443-4c71-9f69-125e24e13c20)
+![image](https://github.com/user-attachments/assets/ac5e7faa-638e-490f-8d58-f344ec7d90cc)
+![image](https://github.com/user-attachments/assets/6175700e-d4b9-4c76-99b3-16eeefb1441d)
+#### 1.3.1.4.2 Search Medical Leave 
+![image](https://github.com/user-attachments/assets/2d22ab7e-58c0-45a7-81ed-dea8dedcbc9a)
+![image](https://github.com/user-attachments/assets/064b636a-3c34-4aaa-8b9e-b06dc0141913)
+![image](https://github.com/user-attachments/assets/57683cf3-fb5a-46b9-ad96-72426d4482e7)
 
-| Tên chức năng     | Bán thuốc                                                    |
-| :---------------- | ------------------------------------------------------------ |
-| Đối tượng sử dụng | Nhân viên bán thuốc                                          |
-| Điều kiện đầu vào | Người dùng đã đăng nhập hệ thống                             |
-| Nội dung          | Tạo hóa đơn bán thuốc                                        |
-| Cách xử lý        | 1. Người dùng chọn mục "Bán thuốc/Bán thuốc"<br />2. Người dùng tìm kiếm thuốc tại thanh tìm kiếm, chọn loại thuốc tìm được (kèm số lượng).  Nếu số lượng thuốc không đủ, in thông báo ra màn hình<br />3. Hệ thống hiển thị thông tin đơn hàng: Loại thuốc, đơn giá, thành tiền, tổng hóa<br />đơn, thuế, số tiền khách đưa, số tiền trả lại, người lập hóa đơn, thông tin liên hệ.<br />4. Người dùng nhấn vào nút "Hoàn thành", hệ thống lưu hóa đơn, giảm số lượng<br />các loại thuốc ghi trong hóa đơn và tăng số tiền trong kho tương ứng với giá trị hóa đơn. |
-| Kết quả           | Tạo hóa đơn thành công hoặc thất bại                         |
-| Ghi chú           |                                                              |
+#### 1.3.1.5. Invoice Management
+#### 1.3.1.5.1 Add Invoice 
+![image](https://github.com/user-attachments/assets/e707f00a-3839-435d-81a7-76c63277170a)
+![image](https://github.com/user-attachments/assets/a50746f3-59c3-45b2-985d-e5f3d461df3f)
+![image](https://github.com/user-attachments/assets/0bb5393c-e2b9-477c-b627-a04a34862476)
+#### 1.3.1.5.2 Delete Invoice
+![image](https://github.com/user-attachments/assets/f4647c71-c79d-400a-ad3c-faccd8921d29)
+![image](https://github.com/user-attachments/assets/b3149914-1d77-4980-9c28-39dd8fc8eabe)
+![image](https://github.com/user-attachments/assets/7b28dcb4-c1ea-4f20-87a5-f29403582d50)
+#### 1.3.1.5.3 Search Invoice
+![image](https://github.com/user-attachments/assets/f6eb214f-18fa-42d3-9cd5-2cd36cc0b512)
+![image](https://github.com/user-attachments/assets/e4d46dc8-574f-407a-95c1-dfc2a6490ca7)
+![image](https://github.com/user-attachments/assets/0ec8112f-d525-4460-a8ca-55b0a27532c8)
 
-#### 1.3.1.5. Nhập thuốc
+#### 1.3.1.6. Appointment Management
+#### 1.3.1.6.1 Add Appointment
+![image](https://github.com/user-attachments/assets/d247205c-26b1-4826-8543-a573e735a2c2)
+![image](https://github.com/user-attachments/assets/50aac2a6-eafc-4608-9cfa-fd16dc60002c)
+![image](https://github.com/user-attachments/assets/af230359-c7c4-476b-a455-d26d2781c025)
+![image](https://github.com/user-attachments/assets/5ecc76af-13ec-4ac6-9914-4458c7bfe2d7)
+#### 1.3.1.6.2 Update Appointment
+![image](https://github.com/user-attachments/assets/4737a368-8a10-445a-93ba-eb5a3ecd5dfb)
+![image](https://github.com/user-attachments/assets/9e2719d3-54c2-4c0f-b429-bfe508a0c5da)
+![image](https://github.com/user-attachments/assets/5e9ceca6-4e68-48f5-aae5-7e1642e17104)
+![image](https://github.com/user-attachments/assets/d1d5503d-7df2-46df-a1bd-ab3ebf52e9fe)
+#### 1.3.1.6.3 Update Appointment
+![image](https://github.com/user-attachments/assets/69c19796-3097-40a1-b145-1249d960b314)
+![image](https://github.com/user-attachments/assets/417dccdb-4fba-41ae-9353-94698969af0e)
+![image](https://github.com/user-attachments/assets/ead6334f-0177-473e-9159-66e213de729e)
+#### 1.3.1.6.4 Search Appointment
+![image](https://github.com/user-attachments/assets/449c2d55-2bfd-4664-9cf4-23af99a3f05e)
+![image](https://github.com/user-attachments/assets/8dc39c7d-e2a6-4851-b808-7fe6d6c21b16)
+![image](https://github.com/user-attachments/assets/c76e447e-917d-48a9-99e8-44f568e3f49c)
 
-| Tên chức năng     | Nhập thuốc                                                   |
-| :---------------- | ------------------------------------------------------------ |
-| Đối tượng sử dụng | Quản lý                                                      |
-| Điều kiện đầu vào | Người dùng đã đăng nhập hệ thống                             |
-| Nội dung          | Tạo hóa đơn nhập thuốc                                       |
-| Cách xử lý        | 1. Người dùng chọn mục "Kho thuốc/Nhập thuốc"<br />2. Nhập các thông tin về thuốc, số lượng và nhấn vào nút "Nhập"<br />3. Hệ thống lưu hóa đơn, tăng số lượng thuốc theo biểu mẫu nhập. |
-| Kết quả           | Nhập thành công hoặc thất bại                                |
-| Ghi chú           | Thông tin về thuốc: Mã thuốc, tên thuốc, hoạt chất, nhóm thuốc, nhà cung cấp, ngày hết hạn, đơn giá. |
+#### 1.3.1.7. Inverntory Management
+![image](https://github.com/user-attachments/assets/884d91ad-2c6c-41ce-b789-abb09bc87fb4)
+![image](https://github.com/user-attachments/assets/8a73541b-06e4-48e1-9b74-dc2310472c93)
+![image](https://github.com/user-attachments/assets/263cd443-c883-4d87-a919-eb780dd2fd6d)
+![image](https://github.com/user-attachments/assets/f28c6998-0b61-4c47-a1c4-d2b58f7a316a)
+![image](https://github.com/user-attachments/assets/c5b08fe7-0400-40ff-83c3-a6277716ae3e)
+![image](https://github.com/user-attachments/assets/92bc23bc-c6e3-4aab-9b04-33577143443c)
+![image](https://github.com/user-attachments/assets/c541e358-f97c-4806-9bf4-bbe63867d231)
 
-#### 1.3.1.6. Tạo khoản chi
+#### 1.3.1.8. Service Management
+#### 1.3.1.8.1 Add Service 
+![image](https://github.com/user-attachments/assets/c77e890f-58eb-4c30-adef-ea91a408d896)
+![image](https://github.com/user-attachments/assets/ee71e8f1-bcc0-4987-81f7-6d4847698ff9)
+![image](https://github.com/user-attachments/assets/a2aba477-94b5-4d39-a1c6-d71c0f8bd261)
 
-| Tên chức năng     | Tạo khoản chi                                                |
-| :---------------- | ------------------------------------------------------------ |
-| Đối tượng sử dụng | Quản lý                                                      |
-| Điều kiện đầu vào | Người dùng đã đăng nhập vào hệ thống                         |
-| Nội dung          | Tạo khoản chi                                                |
-| Cách xử lý        | 1. Người dùng chọn mục "Tài chính/Tạo khoản chi"<br />2. Nhập số tiền và nội dung khoản chi. Nếu số tiền vượt quá số tiền<br />trong kho thì thông báo ra màn hình và yêu cầu người dùng nhập số tiền nhỏ hơn.<br />3. Người dùng nhấn vào nút "Rút". Hệ thống trừ số tiền tương ứng. |
-| Kết quả           | Rút thành công hoặc thất bại                                 |
-| Ghi chú           |                                                              |
-
-#### 1.3.1.7. Quản lý nhân viên
-
-| Tên chức năng     | Quản lý nhân viên                                            |
-| :---------------- | ------------------------------------------------------------ |
-| Đối tượng sử dụng | Quản lý, Quản trị viên                                       |
-| Điều kiện đầu vào | Người dùng đã đăng nhập vào hệ thống                         |
-| Nội dung          | Chỉnh sửa thông tin nhân viên                                |
-| Cách xử lý        | 1. Người dùng chọn mục "Nhân viên"<br />2. Hệ thống in ra danh sách thông tin nhân viên và nút "Tạo mới nhân viên".<br />3. Nếu người dùng nhấn nút tạo mới, hệ thống tạo một nhân viên mới vào cuối<br />danh sách cho người dùng nhập thông tin. Nếu người dùng là Quản lý thì không được thay đổi chức vụ của nhân viên<br />4. Người dùng nhấn "Lưu", hệ thống lưu các chỉnh sửa của người dùng. |
-| Kết quả           | Chỉnh sửa thành công hoặc thất bại                           |
-| Ghi chú           | Thông tin nhân viên bao gồm: Tên nhân viên, giới tính, năm sinh, chức vụ (Nhân viên bán hàng hoặc/và Quản lý). |
-
-#### 1.3.1.8. Thống kê kho thuốc
-
-| Tên chức năng     | Thống kê kho thuốc                                           |
-| :---------------- | ------------------------------------------------------------ |
-| Đối tượng sử dụng | Nhân viên bán hàng, Quản lý                                  |
-| Điều kiện đầu vào | Người dùng đã đăng nhập vào hệ thống                         |
-| Nội dung          | Thống kê lượng tồn kho                                       |
-| Cách xử lý        | 1. Người dùng chọn trang "Kho thuốc/Thống kê"<br />2. Hệ thống tính toán, đưa ra danh sách các loại thuốc<br />3. Nếu người dùng chọn mục "Số lượng", đưa ra thông tin các loại thuốc đã hết/sắp hết số lượng.<br />4. Nếu ngời dùng chọn mục "Hạn sử dụng", đưa ra thông tin các loại thuốc đã quá hạn/sắp hết hạn. |
-| Kết quả           | Danh sách các loại thuốc tìm được.                           |
-| Ghi chú           | Các thông tin về thuốc: Mã thuốc, tên thuốc, hoạt chất, nhóm thuốc, nhà cung cấp, ngày hết hạn, đơn giá, lượng tồn kho. |
+----Còn thiếu
 
 #### 1.3.1.9. Thống kê hóa đơn
 
-| Tên chức năng     | Thống kê hóa đơn                                             |
-| :---------------- | ------------------------------------------------------------ |
-| Đối tượng sử dụng | Nhân viên bán hàng, quản lý                                  |
-| Điều kiện đầu vào | Người dùng đã đăng nhập vào hệ thống                         |
-| Nội dung          | Đưa ra danh sách hóa đơn trong khoảng thời gian cho trước.   |
-| Cách xử lý        | 1. Người dùng chọn trang "Bán thuốc/Hóa đơn"<br />2. Người dùng chọn khoảng thời gian thống kê và nhấn nút "Thống kê"<br />3. Hệ thống truy vấn, in ra danh sách hóa đơn trong khoảng thời gian đã nhập. |
-| Kết quả           | Danh sách hóa đơn                                            |
-| Ghi chú           | Thông tin trong danh sách bao gồm: Mã hóa đơn, thời gian tạo, số tiền, người lập hóa đơn. |
 
 #### 1.3.1.10. Thống kê tài chính
-
-| Tên chức năng     | Thống kê tài chính                                           |
-| :---------------- | ------------------------------------------------------------ |
-| Đối tượng sử dụng | Nhân viên bán hàng, Quản lý                                  |
-| Điều kiện đầu vào | Người dùng đã đăng nhập vào hệ thống                         |
-| Nội dung          | Thống kê lượng tiền vào/ra trong khoảng thời gian cho trước. |
-| Cách xử lý        | 1. Người dùng chọn trang "Tài chính/Thống kê"<br />2. Người dùng chọn khoảng thời gian thống kê, nhập khoảng thời gian thống kê.<br />3. Hệ thống tìm kiếm các khoản chi, hóa đơn bán hàng trong khoảng thời gian đã nhập, hiển thị ra màn hình. |
-| Kết quả           | Lượng tiền vào/ra trong khoảng thời gian đã nhập, danh sách các hóa đơn, khoản chi trong thời gian tương ứng. |
-| Ghi chú           |                                                              |
 
 ### 1.3.2. Yêu cầu phi chức năng
 
@@ -256,9 +248,9 @@ Ngôn ngữ lập trình Rust cho tốc độ cao, tiêu tốn ít tài nguyên 
 
 Kiểm thử được hỗ trợ trực tiếp bởi Rust, kiểm thử chạy tự động trên hệ thống Github Action.
 
-## 2.6. Đặc tả hệ thống
+## 2.6. system specification
 
-### 2.6.1. Biểu đồ usecase
+### 2.6.1. usecase diagram
 
 #### 2.6.1.1. Usecase tổng quát
 
@@ -286,129 +278,30 @@ Kiểm thử được hỗ trợ trực tiếp bởi Rust, kiểm thử chạy t
 
 
 
-### 2.6.2. Biểu đồ lớp
+### 2.6.2. Class diagram
+![image](https://github.com/user-attachments/assets/1c069e5c-469b-469f-8543-14dc1da234e0)
+![image](https://github.com/user-attachments/assets/351e7951-aad5-4357-a596-af3c6d47c5a0)
+![image](https://github.com/user-attachments/assets/79b86874-c6fb-4af3-88f4-240a7b80f0bc)
+![image](https://github.com/user-attachments/assets/dc543d19-5e21-4a94-88c0-66c712b74f18)
+
+### 2.6.3. Sequence diagram
+![image](https://github.com/user-attachments/assets/0f65b8a1-0762-420f-8d96-eac44605b69d)
+![image](https://github.com/user-attachments/assets/fde58add-980c-4531-8675-9bbaeedfec9e)
+
+![image](https://github.com/user-attachments/assets/57aabc3d-943a-476b-b930-38b4807f6946)
+![image](https://github.com/user-attachments/assets/392543ef-8ea8-4bc9-a5ca-e6037987eb1c)
+![image](https://github.com/user-attachments/assets/e34f180d-e8ae-419e-997e-a259cb175824)
+![image](https://github.com/user-attachments/assets/343cdcb8-119a-4fcc-8ede-50a275d893ac)
+
+![image](https://github.com/user-attachments/assets/7c7f440f-dcd2-4925-89e6-8a9cc40731bc)
+![image](https://github.com/user-attachments/assets/785efe05-10c2-49fb-9c35-62ad7c79578a)
+![image](https://github.com/user-attachments/assets/4f00c68b-7195-4f5e-a127-b816b33ec73a)
+![image](https://github.com/user-attachments/assets/6e8ef0c3-3561-4bed-86ab-eae6d0da055f)
+![image](https://github.com/user-attachments/assets/34777dd4-dc8d-4a77-a06f-064dcfeec85e)
+![image](https://github.com/user-attachments/assets/d52641d4-7ac1-4542-8a64-dda5e55a192e)
+![image](https://github.com/user-attachments/assets/d2c0632a-bd0c-410b-83d5-ca9faf545cae)
 
-### 2.6.3. Biểu đồ trình tự
 
-#### 2.6.3.1. Biểu đồ trình tự đăng nhập
-
-![](https://raw.githubusercontent.com/dungph/KMA_CTKH11/main/diagram/sequence/session_login.drawio.png)
-
-#### 2.6.3.2. Biểu đồ trình tự đăng xuất
-
-![](https://raw.githubusercontent.com/dungph/KMA_CTKH11/main/diagram/sequence/session_signout.drawio.png)
-
-#### 2.6.3.3. Biểu đồ trình tự bán hàng
-
-![](https://raw.githubusercontent.com/dungph/KMA_CTKH11/main/diagram/sequence/pos_sequence.drawio.png)
-
-#### 2.6.3.4. Biểu đồ trình tự kiểm tra hóa đơn bán hàng
-
-![bill_check.drawio](https://raw.githubusercontent.com/dungph/KMA_CTKH11/main/diagram/sequence/bill_check.drawio.png)
-
-#### 2.6.3.5. Biểu đồ trình tự hủy hóa đơn bán hàng
-
-![bill_cancel.drawio](https://raw.githubusercontent.com/dungph/KMA_CTKH11/main/diagram/sequence/bill_cancel.drawio.png)
-
-#### 2.6.3.6. Biểu đồ trình tự thống kê hóa đơn bán hàng
-
-![bill_statistic.drawio](https://raw.githubusercontent.com/dungph/KMA_CTKH11/main/diagram/sequence/bill_statistic.drawio.png)
-
-#### 2.6.3.7. Biểu đồ trình tự tìm kiếm sản phẩm
-
-![product_find.drawio](https://raw.githubusercontent.com/dungph/KMA_CTKH11/main/diagram/sequence/product_find.drawio.png)
-
-#### 2.6.3.8. Biểu đồ trình tự sửa thông tin sản phẩm
-
-![product_data_change.drawio](https://raw.githubusercontent.com/dungph/KMA_CTKH11/main/diagram/sequence/product_data_change.drawio.png)
-
-#### 2.6.3.9. Biểu đồ trình tự nhập sản phẩm
-
-![product_import.drawio](https://raw.githubusercontent.com/dungph/KMA_CTKH11/main/diagram/sequence/product_import.drawio.png)
-
-#### 2.6.3.10. Biểu đồ trình tự xuất sản phẩm
-
-![product_export.drawio](https://raw.githubusercontent.com/dungph/KMA_CTKH11/main/diagram/sequence/product_export.drawio.png)
-
-#### 2.6.3.11. Biểu đồ trình tự thống kê sản phẩm
-
-![product_statistic.drawio](https://raw.githubusercontent.com/dungph/KMA_CTKH11/main/diagram/sequence/product_statistic.drawio.png)
-
-#### 2.6.3.12. Biểu đồ trình tự kiểm tra tài chính
-
-![finance_check.drawio](https://raw.githubusercontent.com/dungph/KMA_CTKH11/main/diagram/sequence/finance_check.drawio.png)
-
-#### 2.6.3.13. Biểu đồ trình tự tạo phiếu thu
-
-![finance_in.drawio](https://raw.githubusercontent.com/dungph/KMA_CTKH11/main/diagram/sequence/finance_in.drawio.png)
-
-#### 2.6.3.14. Biểu đồ trình tự tạo phiếu chi
-
-![finance_out.drawio](https://raw.githubusercontent.com/dungph/KMA_CTKH11/main/diagram/sequence/finance_out.drawio.png)
-
-#### 2.6.3.15. Biểu đồ trình tự thống kê tài chính
-
-![finance_statistic.drawio](https://raw.githubusercontent.com/dungph/KMA_CTKH11/main/diagram/sequence/finance_statistic.drawio.png)
-
-#### 2.6.3.16. Biểu đồ trình tự tạo nhân viên mới
-
-![staff_new.drawio](https://raw.githubusercontent.com/dungph/KMA_CTKH11/main/diagram/sequence/staff_new.drawio.png)
-
-#### 2.6.3.17. Biểu đồ trình tự sửa thông tin nhân viên
-
-![staff_change_info.drawio](https://raw.githubusercontent.com/dungph/KMA_CTKH11/main/diagram/sequence/staff_change_info.drawio.png)
-
-#### 2.6.3.18. Biểu đồ trình tự danh sách nhân viên
-
-![staff_list.drawio](https://raw.githubusercontent.com/dungph/KMA_CTKH11/main/diagram/sequence/staff_list.drawio.png)
-
-
-
-
-
-### 2.6.4. Biểu đồ hoạt động
-
-#### 2.6.4.1. Biểu đồ hoạt động bán hàng
-
-![](https://raw.githubusercontent.com/dungph/KMA_CTKH11/main/diagram/activity/pos.drawio.png)
-
-#### 2.6.4.2. Biểu đồ hoạt động kiểm tra đơn hàng
-
-![](https://raw.githubusercontent.com/dungph/KMA_CTKH11/main/diagram/activity/bill_check.drawio.png)
-
-#### 2.6.4.3. Biểu đồ hoạt động hủy đơn hàng
-
-![](https://raw.githubusercontent.com/dungph/KMA_CTKH11/main/diagram/activity/bill_cancel.drawio.png)
-
-#### 2.6.4.4. Biểu đồ hoạt động thống kê bán hàng
-
-![](https://raw.githubusercontent.com/dungph/KMA_CTKH11/main/diagram/activity/bill_statistic.drawio.png)
-
-#### 2.6.4.5. Biểu đồ hoạt động nhập hàng
-
-![](https://raw.githubusercontent.com/dungph/KMA_CTKH11/main/diagram/activity/product_import.drawio.png)
-
-#### 2.6.4.6. Biểu đồ hoạt động sửa thông tin sản phẩm
-
-![](https://raw.githubusercontent.com/dungph/KMA_CTKH11/main/diagram/activity/product_change_info.drawio.png)
-
-#### 2.6.4.7. Biểu đồ hoạt động tạo phiếu thu
-
-![](https://raw.githubusercontent.com/dungph/KMA_CTKH11/main/diagram/activity/finance_in.drawio.png)
-
-#### 2.6.4.8. Biểu đồ hoạt động thêm nhân viên mới
-
-![](https://raw.githubusercontent.com/dungph/KMA_CTKH11/main/diagram/activity/staff_new.drawio.png)
-
-#### 2.6.4.9. Biểu đồ hoạt động thay đổi thông tin nhân viên
-
-![](https://raw.githubusercontent.com/dungph/KMA_CTKH11/main/diagram/activity/staff_change_info.drawio.png)
-
-
-
-### 2.6.5. Biểu đồ thành phần
-
-![](https://raw.githubusercontent.com/dungph/KMA_CTKH11/main/diagram/components.drawio.png)
 
 ### 2.6.6. Biểu đồ triển khai
 
@@ -418,16 +311,58 @@ Kiểm thử được hỗ trợ trực tiếp bởi Rust, kiểm thử chạy t
 
 ![](https://raw.githubusercontent.com/dungph/KMA_CTKH11/main/diagram/sql.png)
 
-### 2.6.8. Giao diện phần mềm
+### 2.6. UX,UI
+1) Admin interface
+#### 2.6.8.1. Sign in page
+![image](https://github.com/user-attachments/assets/186c47b1-15e6-4f78-a17a-0d35c302b736)
 
-#### 2.6.8.1. Giao diện đăng nhập
+#### 2.6.8.2. Menu page
+![image](https://github.com/user-attachments/assets/58dbe29b-2989-4a2f-bbe3-17af0cc4791a)
 
-![](https://raw.githubusercontent.com/dungph/KMA_CTKH11/main/diagram/login.jpg)
+#### 2.6.8.3. Patient management
 
-#### 2.6.8.2. Giao diện bán hàng
+![image](https://github.com/user-attachments/assets/d04aabc9-92ea-4151-97d1-71515f7b6655)
 
-![](https://raw.githubusercontent.com/dungph/KMA_CTKH11/main/diagram/pos.png)
+#### 2.6.8.4. Appointment management
+![image](https://github.com/user-attachments/assets/eb364417-f321-4823-bab9-3adc3629ce9d)
+#### 2.6.8.5. Medical leave
+![image](https://github.com/user-attachments/assets/32b35139-2856-48cc-b259-d2a6ea36b77d)
 
-#### 2.6.8.3. Giao diện quản lý sản phẩm
 
-![](https://raw.githubusercontent.com/dungph/KMA_CTKH11/main/diagram/product_management.jpg)
+#### 2.6.8.6.	Service management
+![image](https://github.com/user-attachments/assets/bc828a3b-1393-4512-b7dc-aa0049fb40ff)
+
+#### 2.6.8.7. Staff management
+![image](https://github.com/user-attachments/assets/df502ae0-51ec-4636-a11c-d230b7fd4e2f)
+
+#### 2.6.8.8. Invoice management
+![image](https://github.com/user-attachments/assets/ebf9208a-e354-44cf-9a92-7ba52f1642de)
+
+#### 2.6.8.9. Medical inventory
+![image](https://github.com/user-attachments/assets/34edaadf-45be-4926-8dc6-a61c91ddbe31)
+
+#### 2.6.8.10. Report
+![image](https://github.com/user-attachments/assets/57b21129-a63d-4649-af72-de74e1cd5283)
+2) Staff interface
+#### 2.6.9.1. Login
+![image](https://github.com/user-attachments/assets/9f76393a-3ce2-40ef-b4bb-47dddbc03d2c)
+
+#### 2.6.9.2. Menu
+![image](https://github.com/user-attachments/assets/ff8990bc-5b4d-4fb9-9305-a2c1ed478509)
+#### 2.6.9.3. Patient management
+![image](https://github.com/user-attachments/assets/f68903c1-13fe-458b-a6cb-b190e7490f20)
+
+#### 2.6.9.4. Medical leave
+![image](https://github.com/user-attachments/assets/bd8fc264-8e5c-486d-8486-38e2946fa410)
+
+#### 2.6.9.5. Medicine inventory
+![image](https://github.com/user-attachments/assets/d4a29f12-27ec-473d-b451-11e3596d7f7d)
+
+#### 2.6.9.6. Service management
+![image](https://github.com/user-attachments/assets/228bac29-8f4a-46b6-ab00-8e54b3e5411e)
+
+#### 2.6.9.7. Invoice management
+![image](https://github.com/user-attachments/assets/da7a5d79-10c2-486a-9c9f-bfe8cb40c9c8)
+
+#### 2.6.9.8. Appointment
+![image](https://github.com/user-attachments/assets/e58e84b7-1063-43ea-ac68-c95ec993b296)
