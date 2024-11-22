@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c195cb4b-0e0c-4c97-bb91-c16d3b7bdd59)<!-- Banner -->
+<!-- Banner -->
 <p align="center">
   <a href="https://www.uit.edu.vn/" title="Trường Đại học Công nghệ Thông tin" style="border: none;">
     <img src="https://i.imgur.com/WmMnSRt.png" alt="Trường Đại học Công nghệ Thông tin | University of Information Technology">
